@@ -1,0 +1,99 @@
+[
+    {
+      "id": "CS101",
+      "course_name": "Introduction to Computer Science",
+      "course_details": "This course covers the basics of computer science, including programming, algorithms, and data structures.",
+      "cover_image": "../src/assets/Rectangle 3.png",
+      "price": 150.00,
+      "credit_hr": 3
+    },
+    {
+      "id": "CS102",
+      "course_name": "Data Structures and Algorithms",
+      "course_details": "An in-depth look at data structures, algorithms, and their applications in computer programming.",
+      "cover_image": "../src/assets/Rectangle 2.png",
+      "price": 200.00,
+      "credit_hr": 4
+    },
+    {
+      "id": "CS103",
+      "course_name": "Database Systems",
+      "course_details": "Learn about database design, SQL, and database management systems.",
+      "cover_image": "../src/assets/Rectangle 2-1.png",
+      "price": 180.00,
+      "credit_hr": 3
+    },
+    {
+      "id": "CS104",
+      "course_name": "Operating Systems",
+      "course_details": "This course covers the principles of operating systems, including process management, memory management, and file systems.",
+      "cover_image": "../src/assets/Rectangle 2-2.png",
+      "price": 220.00,
+      "credit_hr": 4
+    },
+    {
+      "id": "CS105",
+      "course_name": "Computer Networks",
+      "course_details": "An introduction to computer networks, covering network architecture, protocols, and security.",
+      "cover_image": "../src/assets/Rectangle 2-3.png",
+      "price": 210.00,
+      "credit_hr": 3
+    },
+    {
+      "id": "CS106",
+      "course_name": "Software Engineering",
+      "course_details": "Learn the principles of software development, including software lifecycle, methodologies, and project management.",
+      "cover_image": "../src/assets/Rectangle 2-4.png",
+      "price": 230.00,
+      "credit_hr": 3
+    },
+    {
+      "id": "CS107",
+      "course_name": "Artificial Intelligence",
+      "course_details": "An exploration of AI concepts, including machine learning, neural networks, and natural language processing.",
+      "cover_image": "../src/assets/Rectangle 2-5.png",
+      "price": 250.00,
+      "credit_hr": 4
+    },
+    {
+      "id": "CS108",
+      "course_name": "Web Development",
+      "course_details": "Learn to build modern web applications using HTML, CSS, JavaScript, and backend technologies.",
+      "cover_image": "../src/assets/Rectangle 2-6.png",
+      "price": 190.00,
+      "credit_hr": 3
+    },
+    {
+      "id": "CS109",
+      "course_name": "Mobile App Development",
+      "course_details": "Introduction to developing mobile applications for iOS and Android platforms.",
+      "cover_image": "../src/assets/Rectangle 2-3.png",
+      "price": 240.00,
+      "credit_hr": 3
+    },
+    {
+      "id": "CS110",
+      "course_name": "Cybersecurity",
+      "course_details": "This course covers fundamental concepts in cybersecurity, including threat analysis, cryptography, and network security.",
+      "cover_image": "../src/assets/Rectangle 2-4.png",
+      "price": 260.00,
+      "credit_hr": 3
+    },
+    {
+      "id": "CS111",
+      "course_name": "Machine Learning",
+      "course_details": "A comprehensive course on machine learning algorithms, model evaluation, and real-world applications.",
+      "cover_image": "../src/assets/Rectangle 2-5.png",
+      "price": 270.00,
+      "credit_hr": 4
+    },
+    {
+      "id": "CS112",
+      "course_name": "Cloud Computing",
+      "course_details": "Learn about cloud computing concepts, including cloud infrastructure, services, and deployment models.",
+      "cover_image": "../src/assets/Rectangle 3-1.png",
+      "price": 250.00,
+      "credit_hr": 3
+    }
+  ]
+  
